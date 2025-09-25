@@ -6,7 +6,7 @@ I'm a high school student working as a developer with various tech stacks.
 
 ### Skills 💻
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,kotlin,java,spring,dart,flutter,swift,nodejs,express,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,kotlin,java,dart,flutter,aws)](https://skillicons.dev)
 
 ### Contact 📫
 
