@@ -6,7 +6,7 @@
 
 ### 기술 스택 💻
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,kotlin,java,spring,dart,flutter,swift,nodejs,express,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,kotlin,java,dart,flutter,aws)](https://skillicons.dev)
 
 ### 연락처 📫
 
