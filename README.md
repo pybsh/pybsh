@@ -20,38 +20,38 @@
 <p>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pybsh&show_icons=true&rank_icon=github&theme=dark"
+      srcset="./profile/stats-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pybsh&show_icons=true&rank_icon=github"
+      srcset="./profile/stats.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pybsh&show_icons=true&rank_icon=github" />
+    <img height="180em" src="./profile/stats.svg" />
   </picture>
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pybsh&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark"
+      srcset="./profile/top-langs-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pybsh&layout=compact&size_weight=0.5&count_weight=0.5"
+      srcset="./profile/top-lang.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pybsh&layout=compact&size_weight=0.5&count_weight=0.5" />
+    <img height="180em" src="./profile/top-langs.svg" />
   </picture>
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=pybsh&layout=compact&theme=dark&langs_count=10"
+      srcset="./profile/wakatime-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=pybsh&layout=compact&langs_count=10"
+      srcset="./profile/wakatime.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pybsh&layout=compact&langs_count=10" />
+    <img src="./profile/wakatime.svg" />
   </picture>
 </p>
 
