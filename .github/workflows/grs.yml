@@ -56,7 +56,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact&lang_count=10&theme=dark
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=dark
           path: profile/wakatime-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
