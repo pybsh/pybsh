@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-I'm a high school student working as a developer with various tech stacks.
+I'm a student working as a developer with various tech stacks.
 
 ### Skills 💻
 
